@@ -1,0 +1,32 @@
+/* 
+    Document   : original
+    Created on : Apr 12, 2015, 8:00:44 PM
+    Author     : sachinsir
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+.orig{
+    border:solid 2px black;
+    padding: 30px;
+    width: 380px;
+    margin: 0 auto;
+}
+.orig img {
+    height:350px;
+    width:350px;
+    
+    
+}
+.origin{
+   
+    
+}
